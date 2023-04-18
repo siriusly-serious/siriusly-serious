@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋. I'm Brandon Shen
+- 😄 My pronouns are: he/him
+
+- 💬 Ask me about my compositions! I play saxaphone, piano, bassoon ...
+- 📫 How to reach me: ...
+- 🌱 My website is designed by my sister, @ashassins
 
 <!--
 **siriusly-serious/siriusly-serious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
